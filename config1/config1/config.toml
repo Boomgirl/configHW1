@@ -1,0 +1,4 @@
+username = "Polina"
+   hostname = "host"
+   filesystem_path = "filesystem.tar"
+   log_path = "log.json"
